@@ -1,4 +1,4 @@
-<p align="center">![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)</p>
+<p align="center">![Image](https://blog.mailrelay.com/wp-content/uploads/2018/03/que-es-un-blog-1.png)</p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
