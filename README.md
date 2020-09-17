@@ -6,7 +6,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-## Blog
+## About Laravel
 This is a blogging website developed using Laravel, Html, Css and Bootstrap. 
 You are free to use it, but hey do give a star to motivate me so that I can keep developing more such websites and keep on deploying here. 
 
