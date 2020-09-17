@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.mailrelay.com%2Fen%2F2018%2F03%2F27%2Fwhat-is-a-blog-and-what-is-it-for&psig=AOvVaw2ivgAzY-BbQ9c2F-HHunRb&ust=1600425717730000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNj5qMmA8OsCFQAAAAAdAAAAABAD" width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -6,6 +6,18 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+#Blog
+This is a blogging website developed using Laravel, Html, Css and Bootstrap. 
+You are free to use it, but hey do give a star to motivate me so that I can keep developing more such websites and keep on deploying here. 
+
+To use this all you need to do is-
+*simply clone or download this repository, 
+*make a database named blog in your database server(could be your localhost database).
+*after this run the command php artisan migrate:fresh- this would create all the tables in your database.
+* after that you could simply start using the website. If you are running it on your local machine type in php artisan serve command.
+
+
+Thank you!
 
 ## About Laravel
 
