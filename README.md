@@ -6,14 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
-##Blog
+## Blog
 This is a blogging website developed using Laravel, Html, Css and Bootstrap. 
 You are free to use it, but hey do give a star to motivate me so that I can keep developing more such websites and keep on deploying here. 
 
-To use this all you need to do is-
-*simply clone or download this repository, 
-*make a database named blog in your database server(could be your localhost database).
-*after this run the command php artisan migrate:fresh- this would create all the tables in your database.
+To use this all you need to do is- 
+* simply clone or download this repository, 
+* make a database named blog in your database server(could be your localhost database).
+* after this run the command php artisan migrate:fresh- this would create all the tables in your database.
 * after that you could simply start using the website. If you are running it on your local machine type in php artisan serve command.
 
 
